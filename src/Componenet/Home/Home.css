@@ -1,0 +1,85 @@
+.weather_animated {
+   height: auto;
+   border: 4px solid #608094 !important;
+   background: #608094 !important;
+   padding: 20px
+}
+Button:focus {
+   outline:none !important;
+}
+
+.currentTemp {
+	color: #fff!important;
+	font-weight: 400;
+	text-align: center;
+}
+.description {
+	color: white;
+	font-size: 17px;
+	text-align: center;
+}
+img.wind {
+	width: 35px;
+	padding: 4px 6px;
+}
+img.sun {
+	padding: 0px;
+	margin: -17px -14px;
+}
+
+/* section.hero .container .weather_animated i {
+	background: url(../site_images/weather_icon_partly_cloudy.svg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 80px;
+	height: 70px;
+	position: absolute;
+}
+section.hero .container .weather_animated i.partly_cloudy {
+	background: url(../site_images/weather_icon_partly_cloudy.svg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	top: 19px !important;
+}
+section.hero .container .weather_animated i.full_clouds {
+	background: url(../site_images/weather_icon_full_clouds.svg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	top: 19px !important;
+}
+section.hero .container .weather_animated i.night {
+	background: url(../site_images/weather_icon_night.svg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	top: 16px !important;
+}
+section.hero .container .weather_animated i.sun_rain_clouds {
+	background: url(../site_images/weather_icon_sun_rain_clouds.svg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	top: 15px !important;
+}
+section.hero .container .weather_animated i.full_sun {
+	background: url(../site_images/weather_icon_full_sun.svg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	top: 17px !important;
+}
+section.hero .container .weather_animated i.rainy {
+	background: url(../site_images/weather_icon_rainy.svg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	top: 13px !important;
+}
+section.hero .container .weather_animated i.cloud_slight_rain {
+	background: url(../site_images/weather_icon_cloud_slight_rain.svg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	top: 13px !important;
+}
+section.hero .container .weather_animated i.thunder {
+	background: url(../site_images/weather_icon_thunder.svg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	top: 0px;
+} */

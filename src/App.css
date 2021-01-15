@@ -1,0 +1,13 @@
+.appBg {
+    background: url(./Files/mountains.svg),linear-gradient(135deg,#1f4e69 0,#164058 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff;
+    height: 120vh;
+}
+.author {
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
